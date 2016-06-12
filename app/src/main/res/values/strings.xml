@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quick Settings</string>
+    <string name="tile_label">Test tile</string>
+</resources>
